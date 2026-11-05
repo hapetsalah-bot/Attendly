@@ -1,0 +1,8 @@
+name = "attendly-backend"
+main = "worker.js"
+compatibility_date = "2026-01-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "attendly-db"
+database_id = "22162271-b2b2-4ef8-a1ed-80a9ab7b9534"
